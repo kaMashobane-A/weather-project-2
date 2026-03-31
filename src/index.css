@@ -11,3 +11,21 @@ body {
   border-radius: 15px;
   padding: 20px;
 }
+.search-bar{
+    background-color:#E7E7E7 ;
+    border:none;
+    border-radius: 6px;
+    width: 80%;
+    font-size:15px;
+    padding: 18px 20px;
+
+}
+.search-button{
+    background-color:#C2ACF8 ;
+    padding: 18px 25px;
+    border:none;
+    font-size:15px;
+    margin-left:8px;
+    border-radius: 6px;
+    color: #ffffff;
+}
