@@ -11,6 +11,12 @@ body {
   border-radius: 15px;
   padding: 20px;
 }
+
+header{
+    border-bottom: 1px solid beige;
+    padding: 0 0 30px 0;
+}
+
 .search-bar{
     background-color:#E7E7E7 ;
     border:none;
@@ -28,4 +34,12 @@ body {
     margin-left:8px;
     border-radius: 6px;
     color: #ffffff;
+}
+
+footer{
+    border-top: 1px solid beige;
+    padding: 30px 0 0 0;
+    text-align: center;
+    font-size: 13px;
+    color:rgba(0, 0, 0, 0.6);
 }
